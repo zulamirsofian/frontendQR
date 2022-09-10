@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot](FrontendQR.png?raw=true "Screenshot")
 
 ### Links
-
+- Solution URL: [Repo](https://github.com/zulamirsofian/frontendQR)
 - Live Site URL: [Zulamir's github](https://zulamirsofian.github.io/frontendmentor/frontendQR/)
 
 ### Built with
